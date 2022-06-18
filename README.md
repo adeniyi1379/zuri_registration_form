@@ -1,2 +1,2 @@
-# zuri_registration_form
-My registration form task from zuri school
+# Registration form
+## This form is inspire from the zuri task challenge 
